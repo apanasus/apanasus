@@ -1,10 +1,4 @@
-<div align="center" width="50">  
 
-<br><br> Vibing to : 🎧  </strong></p>
-
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001830.a0ca8299b1ab499a9e21376b3fa894c4.1427)](https://github.com/rayriffy/apple-music-github-profile)
-
-</div>
 
 <hr></hr>
 
