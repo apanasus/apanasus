@@ -2,8 +2,7 @@
 <p><strong>Freelancing & Assisting my father at his shop.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001830.a0ca8299b1ab499a9e21376b3fa894c4.1427)](https://github.com/rayriffy/apple-music-github-profile)
 
 </div>
 
