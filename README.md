@@ -5,8 +5,7 @@
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001830.a0ca8299b1ab499a9e21376b3fa894c4.1427)]<br>
 
 
-![Totals Hits](https://komarev.com/ghpvc/?username=apanasus&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapanasus&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false) <br>
+
 </div>
 
 <hr></hr>
@@ -51,6 +50,7 @@
 <div align="center" >
 
 
-  
+  ![Totals Hits](https://komarev.com/ghpvc/?username=apanasus&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapanasus&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false) <br>
 
 </div>
