@@ -1,5 +1,5 @@
 <div align="center" width="50">  
-<p><strong>Freelancing & Assisting my father at his shop.
+
 <br><br> Vibing to : 🎧  </strong></p>
 
 [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001830.a0ca8299b1ab499a9e21376b3fa894c4.1427)](https://github.com/rayriffy/apple-music-github-profile)
@@ -13,8 +13,10 @@
 ![php](https://img.shields.io/badge/php-blue?logo=php)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-orange?logo=nginx)
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Mysql](https://img.shields.io/badge/Mysql-gray?logo=Mysql)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 <br>
