@@ -1,12 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="70%"/> <br> 
   
 <p><strong>Freelancing & Assisting my father at his shop.
 <br><br> Vibing to : 🎧  </strong></p>
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=001830.a0ca8299b1ab499a9e21376b3fa894c4.1427)](https://github.com/rayriffy/apple-music-github-profile) <br>
+[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001830.a0ca8299b1ab499a9e21376b3fa894c4.1427)](https://github.com/rayriffy/apple-music-github-profile)<br>
 
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
