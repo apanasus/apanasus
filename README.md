@@ -20,8 +20,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 
-<br>
-
 ![Frontend](https://img.shields.io/badge/-%F0%9F%9A%80%20Frontend%20%20-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange) <br>
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
