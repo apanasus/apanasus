@@ -5,7 +5,7 @@
 ![Backend](https://img.shields.io/badge/-%F0%9F%9A%80%20Backend%20%20-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange) <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![GO](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=go&logoColor=white)
+![GO](https://img.shields.io/badge/go-%23777BB4.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
